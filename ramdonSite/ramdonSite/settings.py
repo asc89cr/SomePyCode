@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'sql_server.pyodbc',
         'NAME': 'Polls',
         'USER': 'test',
-        'PASSWORD': 'Inmortal00',
+        'PASSWORD': '*********',
         'HOST': '(localdb)\MSSQLLocalDB',
         'PORT': '',
 
